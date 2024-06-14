@@ -1,0 +1,6 @@
+yfinance~=0.2.36
+timedelta~=2020.12.3
+openai~=1.10.0
+requests~=2.31.0
+beautifulsoup4~=4.12.3
+alpaca-py
